@@ -13,7 +13,7 @@ from obman.coordutils import get_coords_2d
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
-
+#made a test comment
 class ObMan():
     def __init__(self,
                  root,
